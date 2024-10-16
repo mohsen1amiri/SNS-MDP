@@ -1,6 +1,6 @@
 # Adaptive Modulation in Wireless Communication Systems using SNS-MDP Framework
 
-This project is for the implementation of the paper entitled "Reinforcement Learning in Switching Non-Stationary Markov Decision Processes: Algorithms and Convergence Analysis." It demonstrates theoretical results in the context of wireless communication systems, which often experience dynamic channel conditions due to factors like fading, interference, and user mobility.
+This project is for the implementation of the paper entitled "Reinforcement Learning in Switching Non-Stationary Markov Decision Processes: Algorithms and Convergence Analysis." It demonstrates the performance of theoretical results in the context of wireless communication systems, which often experience dynamic channel conditions due to factors like fading, interference, and user mobility.
 
 **Adaptive Modulation (AM)** techniques are employed to enhance performance under these fluctuating conditions by dynamically adjusting transmission parameters, such as modulation schemes, to match current channel conditions. This approach aims to maximize data throughput while maintaining reliable communication.
 
