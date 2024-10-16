@@ -1,4 +1,4 @@
-# Adaptive Modulation in Wireless Communication Systems using SNS-MDP Framework
+# Reinforcement Learning in Switching Non-Stationary Markov Decision Processes: Algorithms and Convergence Analysis
 
 This project is for the implementation of the paper entitled "Reinforcement Learning in Switching Non-Stationary Markov Decision Processes: Algorithms and Convergence Analysis." It demonstrates the performance of theoretical results in the context of wireless communication systems, which often experience dynamic channel conditions due to factors like fading, interference, and user mobility.
 
