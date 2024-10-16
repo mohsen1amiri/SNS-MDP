@@ -11,7 +11,7 @@ An adaptive communication system is modeled using the **State Non-Stationary Mar
 - **States ($\mathcal{S}$)**: Different modulation schemes offering trade-offs between data rate and noise tolerance.
 - **Environmental States ($\mathcal{E}$)**: Channel conditions categorized as Excellent, Good, Fair, or Poor.
 
-Channel conditions are modeled using predefined Markovian transition probabilities. The **Probability of Successful Transmission** ($ P_{\text{success}}(s, e, a) $) is specified for each modulation scheme and channel condition.
+Channel conditions are modeled using predefined Markovian transition probabilities. The **Probability of Successful Transmission** ($ P_{success}(s, e, a) $) is specified for each modulation scheme and channel condition.
 
 A reward function balances data throughput with penalties for unfavorable conditions:
 
